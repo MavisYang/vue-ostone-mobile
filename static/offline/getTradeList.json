@@ -1,0 +1,39 @@
+{
+  "message": "success",
+  "success": 1,
+  "data": [
+    {
+     "pruductID": "10",
+     "productName": "点石1号",
+     "tradeConfirmDate": "2016-09-01",
+     "tradeType": "认购",
+     "confirmPrice": "1234444",
+     "confirmNumber": "1234",
+     "confirmProfit": "54",
+     "profitData": "2016-09-01",
+     "relatingCard": "招商银⾏行"
+    },
+    {
+     "pruductID": "11",
+     "productName": "点石2号",
+     "tradeConfirmDate": "2016-09-01",
+     "tradeType": "认购",
+     "confirmPrice": "1234444",
+     "confirmNumber": "1234",
+     "confirmProfit": "54",
+     "profitData": "2016-09-01",
+     "relatingCard": "招商银⾏行"
+   },
+   {
+    "pruductID": "12",
+    "productName": "点石3号",
+    "tradeConfirmDate": "2016-09-01",
+    "tradeType": "认购",
+    "confirmPrice": "1234444",
+    "confirmNumber": "1234",
+    "confirmProfit": "54",
+    "profitData": "2016-09-01",
+    "relatingCard": "招商银⾏行"
+  }
+ ]
+}

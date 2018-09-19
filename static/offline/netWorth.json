@@ -1,0 +1,48 @@
+{
+  "message": "success",
+  "success": 1,
+  "data": [
+    {
+      "pruductID": "10",
+      "productName": "点石1号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    },
+    {
+      "pruductID": "11",
+      "productName": "点石2号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    },
+    {
+      "pruductID": "12",
+      "productName": "点石3号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    },
+    {
+      "pruductID": "12",
+      "productName": "点石3号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    },
+    {
+      "pruductID": "12",
+      "productName": "点石3号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    },
+    {
+      "pruductID": "12",
+      "productName": "点石3号",
+      "unitProfit": "1.1213",
+      "accumulatedProfit": "1.1314",
+      "profitData": "2016-08-26"
+    }
+  ]
+}

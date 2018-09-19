@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "datas": [
+    {
+      "pruductID": "10",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "predictYearProfit": "18%",
+      "minPrice": "100万起头",
+      "deadline": "3个月",
+      "riskLevel": "高风险",
+      "profitType": "类固收",
+      "manage": "机构",
+      "collectDay": "每月25日"
+    },
+    {
+      "pruductID": "10",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "predictYearProfit": "18%",
+      "minPrice": "100万起头",
+      "deadline": "3个月",
+      "riskLevel": "高风险",
+      "profitType": "类固收",
+      "manage": "机构",
+      "collectDay": "每月25日"
+    },
+    {
+      "pruductID": "10",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "predictYearProfit": "18%",
+      "minPrice": "100万起头",
+      "deadline": "3个月",
+      "riskLevel": "高风险",
+      "profitType": "类固收",
+      "manage": "机构",
+      "collectDay": "每月25日"
+    }
+  ]
+}

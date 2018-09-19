@@ -1,0 +1,11 @@
+{
+  "message": "success",
+  "success": 1,
+  "data": {
+    "totalInvest": "12345.67",
+    "userName": "陈xxx",
+    "userMobile": "13564662725",
+    "email": "dianshi@mishi.com",
+    "urgentRelation": "陈某某"
+  }
+}

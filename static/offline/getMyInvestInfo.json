@@ -1,0 +1,42 @@
+{
+  "message": "success",
+  "success": 1,
+  "data": [
+    {
+      "pruductID": "10",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "unitProfit": "1.1213",
+      "shareNumber": "1234",
+      "profitData": "2016-09-01",
+      "openDate": "2016-10-01"
+    },
+    {
+      "pruductID": "11",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "unitProfit": "1.1213",
+      "shareNumber": "1234",
+      "profitData": "2016-09-01",
+      "openDate": "2016-10-01"
+    },
+    {
+      "pruductID": "12",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "unitProfit": "1.1213",
+      "shareNumber": "1234",
+      "profitData": "2016-09-01",
+      "openDate": "2016-10-01"
+    },
+    {
+      "pruductID": "13",
+      "productName": "点石1号",
+      "productCode": "SZ35435",
+      "unitProfit": "1.1213",
+      "shareNumber": "1234",
+      "profitData": "2016-09-01",
+      "openDate": "2016-10-01"
+    }
+  ]
+}

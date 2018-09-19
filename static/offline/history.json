@@ -1,0 +1,222 @@
+{
+  "message": "success",
+  "success": 1,
+  "data": {
+    "pruductID": "10",
+    "productName": "点石1号",
+    "unitProfit": "1.1213",
+    "accumulatedProfit": "1.1314",
+    "profitData": "2016-08-26",
+    "subscribeRate": "1%",
+    "redeemRate": "1%",
+    "subscribeMinPrice": "100",
+    "closeDuration": "6个月",
+    "historyProfit": [
+       {
+         "profitData": "2016-09-01",
+         "unitProfit": "2.5923",
+         "accumulatedProfit": "2.7314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       },
+       {
+         "profitData": "2016-08-31",
+         "unitProfit": "2.5823",
+         "accumulatedProfit": "2.6314"
+       }
+    ]
+  }
+}
